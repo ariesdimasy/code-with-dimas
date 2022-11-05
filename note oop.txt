@@ -1,0 +1,50 @@
+OOP = object oriented programming 
+pemrograman berorientasi object
+
+Object = sesuatu yang memiliki atribute dan action ( sesuatu yang bisa object lakukan ) 
+
+komputer = {
+
+  monitor, cpu , ram , 
+  menghitung() , menngcompile(), mengenerate() 
+} 
+
+kucing = { kumis , mata, 4 kaki , ekor 
+  mencakar(), lari(), 
+}
+
+macan = { kumis, mata, 4 kaki, ekor, ukuran besar 
+  mencakar(), terkam(), mengaum()
+}
+
+jika beberapa object memiliki kesamaan dengan object lainnya , maka object tersebut berasal dari class yang sama 
+
+class 
+
+adalah suatu konsep dimana dia adalah blueprint ( rancangan ) untuk memproduksi / membuat object
+
+class dengan object itu sama dengan pencetak kue dengan kue 
+pembentuk kue itu disebut dengan class
+hasil dari pencetakan kue tersebut disebut dengan object  
+
+[ 
+  { no:1, videoTitle:"Hello World", tags:"Hello world},
+  { no:2, videoTitle:"Variable Declaration", tags:"logic"},
+
+]
+
+modular 
+node js 
+
+
+inheritance ( pewarisan dari class induk ( parent ) ke class anak ( child )
+penggunaan keyword extends
+
+
+Setter Getter 
+set = bisa mengubah nilai attribut
+get = bisa mengambil nilai atribut 
+
+private dan public 
+private artinya tertutup, tidak bisa diakses secara langsung  
+
